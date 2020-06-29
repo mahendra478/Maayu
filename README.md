@@ -1,2 +1,2 @@
 # Maayu
-just another repository
+Hi Humans
